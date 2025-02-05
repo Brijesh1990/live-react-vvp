@@ -1,0 +1,20 @@
+{
+  "contact-us": [
+    {
+      "id": "a261",
+      "name": "avni",
+      "email": "avni@gmail.com",
+      "phone": "9998003879",
+      "subject": "hi",
+      "address": "hi please send customer care number"
+    },
+    {
+      "id": "3244",
+      "name": "brijesh",
+      "email": "brijesh@gmail.com",
+      "phone": "9998003879",
+      "subject": "hi",
+      "address": "hi please send customer care number"
+    }
+  ]
+}
